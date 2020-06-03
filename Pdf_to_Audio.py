@@ -16,7 +16,7 @@ from tkinter import *
 from tkinter.filedialog import askopenfilename
 import pdftotext
 from gtts import gTTS
-import sys
+
 
 Tk().withdraw()
 filelocation = askopenfilename()
