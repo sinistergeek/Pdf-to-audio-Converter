@@ -1,5 +1,5 @@
 # Pdf-to-audio-Converter
-![](images/you-picture.png)
+![](images/screen.png)
 
 # For Linux-User
 
